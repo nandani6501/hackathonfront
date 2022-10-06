@@ -1,0 +1,20 @@
+#nav1{
+    background-color: rgb(88, 143, 190) !important;
+   padding: 1.5%;
+}
+
+#faqH{
+    color: rgb(88, 143, 190) !important;
+    margin-top: 5%;
+}
+
+.acc{
+    width:60%;
+    margin-left: 20vw;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    /* border: 2px solid rgb(88, 143, 190); */
+}
+
+
+
